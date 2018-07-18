@@ -12,6 +12,7 @@
 		1A06A71120FE429800BECCA7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A06A70F20FE429800BECCA7 /* Main.storyboard */; };
 		1A06A71320FE429A00BECCA7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A06A71220FE429A00BECCA7 /* Assets.xcassets */; };
 		1A06A71620FE429A00BECCA7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A06A71420FE429A00BECCA7 /* LaunchScreen.storyboard */; };
+		1A06A71E20FE450700BECCA7 /* SliderAndTextFieldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A06A71D20FE450700BECCA7 /* SliderAndTextFieldViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		1A06A71220FE429A00BECCA7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A06A71520FE429A00BECCA7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1A06A71720FE429A00BECCA7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A06A71D20FE450700BECCA7 /* SliderAndTextFieldViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderAndTextFieldViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				1A06A71220FE429A00BECCA7 /* Assets.xcassets */,
 				1A06A71420FE429A00BECCA7 /* LaunchScreen.storyboard */,
 				1A06A71720FE429A00BECCA7 /* Info.plist */,
+				1A06A71D20FE450700BECCA7 /* SliderAndTextFieldViewController.swift */,
 			);
 			path = UISlideAndUITextField;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				1A06A70E20FE429800BECCA7 /* ViewController.swift in Sources */,
 				1A06A70C20FE429800BECCA7 /* AppDelegate.swift in Sources */,
+				1A06A71E20FE450700BECCA7 /* SliderAndTextFieldViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
